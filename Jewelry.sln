@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jewelry", "Jewelry\Jewelry.csproj", "{AC17B3FC-463A-453E-8107-99EF65D7050B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC17B3FC-463A-453E-8107-99EF65D7050B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC17B3FC-463A-453E-8107-99EF65D7050B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC17B3FC-463A-453E-8107-99EF65D7050B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC17B3FC-463A-453E-8107-99EF65D7050B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE15CDC-94DA-488C-BF3D-53085BF890CB}
+	EndGlobalSection
+EndGlobal
